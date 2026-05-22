@@ -42,7 +42,7 @@ A classic Snake Game implemented in Python using the `turtle` graphics library. 
 ## 📂 Project Structure
 
 - `main.py`: The entry point of the game, managing the game loop and collisions.
-- `snake.py`: Contains the `Snake` class, handling movement and growth.
+- `snake.py`: Contains the `Snake` class, handling movement and growth. 
 - `food.py`: Contains the `Food` class, managing food spawning.
 - `scoreboard.py`: Handles score display and high-score logic.
 - `data.txt`:  Stores the high score.
