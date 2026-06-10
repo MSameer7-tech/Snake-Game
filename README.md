@@ -16,7 +16,7 @@ A classic Snake Game implemented in Python using the `turtle` graphics library. 
 
 | Action | Keys |
 |--------|------|
-| **Move Up** | `Up Arrow` / `W` |
+| **Move Up** | `Up Arrow` / `W` | 
 | **Move Down** | `Down Arrow` / `S` |
 | **Move Left** | `Left Arrow` / `A` |
 | **Move Right** | `Right Arrow` / `D` |
